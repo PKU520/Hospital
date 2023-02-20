@@ -24,7 +24,4 @@
 ## 其他
 ### Docker	：容器技术
 ### Git：代码管理工具 
-# 业务流程
-![image](https://user-images.githubusercontent.com/62464956/110754494-dc668e00-8282-11eb-8796-bafe40e99330.png)
-# 服务架构
-![image](https://user-images.githubusercontent.com/62464956/110754536-e9837d00-8282-11eb-9b99-8ddbd87d1a14.png)
+
